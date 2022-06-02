@@ -1,0 +1,1 @@
+Este projeto tem o intuito de aprender o uso do GIT é implementar o banco de dados SQL
