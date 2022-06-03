@@ -5,4 +5,3 @@ COMANDOS BÁSICOS GIT
 -git add . (prepara os arquivos)
 -git commit -m "comentario desejado, ou seja, qualquer coisa" (publica a nova versão)
 -git push -u origin main (publica no GITHUB) 
-
