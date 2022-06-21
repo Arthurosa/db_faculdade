@@ -1,11 +1,11 @@
 
 INSERT INTO aluno (fk_cod_curso, fk_cod_turma, fk_cod_endereco, nome_aluno, sobrenome_aluno, CPF, status, sexo, nome_pai, nome_mae, email, whatsapp)
-VALUES              ('51', '25', '1', 'Anitta', 'Larissa', '00000000001', '1', 'F', 'Jose', 'Aparecida', 'anittinha2@gmail.com', '999999991'),
+VALUES                                  ('51', '25', '1', 'Anitta', 'Larissa', '00000000001', '1', 'F', 'Jose', 'Aparecida', 'anittinha2@gmail.com', '999999991'),
 					(NULL, '26', '2', 'Pericles', 'Aparecido', '00000000002', '1', 'M', 'Cleiton', 'Rosa', 'perizinho3@hotmail.com', '999999992'),
-                    ('52', '27', '3', 'Gusttavo', 'Lima', '00000000003', '1', 'M', 'Cesar', 'Clessia', 'lima4@outlook.com', NULL), 
-                    ('53', '28', '4', 'Pitty', 'Priscilla', '00000000004', '1', 'F', 'Chico', 'Luna', 'priscila5@gmail.com', '999999994'),
-                    (NULL, '29', '5', 'Kevin', 'Bueno', '00000000005', '1', 'M', 'Hector', 'Val', 'kevinb6@hotmail.com', '999999995'),
-                    ('54', '30', '6', 'Caetano', 'Velosoo', '00000000006', '0', 'M', 'Emerson', 'Thais', 'caeveloso7@outlook.com', '999999996'),
+                                        ('52', '27', '3', 'Gusttavo', 'Lima', '00000000003', '1', 'M', 'Cesar', 'Clessia', 'lima4@outlook.com', NULL), 
+                                        ('53', '28', '4', 'Pitty', 'Priscilla', '00000000004', '1', 'F', 'Chico', 'Luna', 'priscila5@gmail.com', '999999994'),
+                                        (NULL, '29', '5', 'Kevin', 'Bueno', '00000000005', '1', 'M', 'Hector', 'Val', 'kevinb6@hotmail.com', '999999995'),
+                                        ('54', '30', '6', 'Caetano', 'Velosoo', '00000000006', '0', 'M', 'Emerson', 'Thais', 'caeveloso7@outlook.com', '999999996'),
 					('55', '31', '6', 'Gilberto', 'Gil', '00000000007', '0', 'M', 'Luciano', 'Rafaela', 'gilgil8@gmail.com', '999999997'),
 					('56', '32', '7', 'Renato', 'Russo', '00000000008', '0', 'M', 'Lucio', 'Jana', 'renasso9@hotmail.com', NULL),
 					('57', '25', '1', 'Chico', 'Buarque', '00000000009', '0', 'M', 'Arthur', 'Eduarda', 'chicob10@outlook.com', '999999999'),
